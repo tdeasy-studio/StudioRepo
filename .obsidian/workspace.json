@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "b2a73ceb0f147b23",
+    "type": "split",
+    "children": [
+      {
+        "id": "db8809a62caa5d39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4266779999aa5dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tdeasy.com/02_Brand Campaigns/Cadillac.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cadillac"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56b8a2e6b8b50262",
+    "type": "split",
+    "children": [
+      {
+        "id": "47cfbc2e0fdc9081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8415d5e8136dc6bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8e119e6b9b0289b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8341eb66735b876b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e2a03395be666ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "71ce6704a2c6ca1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "614ad550cad1acc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tdeasy.com/02_Brand Campaigns/Cadillac.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cadillac"
+            }
+          },
+          {
+            "id": "c57f73d6257459c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tdeasy.com/02_Brand Campaigns/Cadillac.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cadillac"
+            }
+          },
+          {
+            "id": "e2b581f81615fc47",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c776c685eb840a3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tdeasy.com/02_Brand Campaigns/Cadillac.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cadillac"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8415d5e8136dc6bb",
+  "lastOpenFiles": [
+    "tdeasy.com/02_Brand Campaigns/Broadcast Reel.md",
+    "tdeasy.com/02_Brand Campaigns/AT&T.md",
+    "tdeasy.com/01_\"Portfolio\"/Links.md",
+    "tdeasy.com/01_\"Portfolio\"/CV.md"
+  ]
+}
