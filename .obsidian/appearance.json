@@ -1,1 +1,6 @@
-{}
+{
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "NB International",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono"
+}
