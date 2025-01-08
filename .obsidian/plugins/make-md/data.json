@@ -35,7 +35,8 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//tdeasy.com"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

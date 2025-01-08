@@ -2,5 +2,8 @@
   "cssTheme": "Minimal",
   "interfaceFontFamily": "NB International",
   "textFontFamily": "JetBrains Mono",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "nav-folder-title {"
+  ]
 }
