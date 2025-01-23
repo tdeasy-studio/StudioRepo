@@ -4,3 +4,4 @@ After their acquisition of WarnerMedia, the brand's TOV needed to expand from ce
   
 Long story short: It was a busy year for AT&T's adopted mega-family of clients. There were a few curveballs along the way, but the team swung for the fences every time.
 
+<iframe src="https://player.vimeo.com/video/697070160?h=1db4adbca1" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
