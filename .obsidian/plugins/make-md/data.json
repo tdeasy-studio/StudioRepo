@@ -36,7 +36,14 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//tdeasy.com"
+    "//tdeasy.com",
+    "//tdeasy.com/tdeasy.com/01_\"Portfolio\"",
+    "//tdeasy.com/tdeasy.com/02_Brand Campaigns",
+    "//tdeasy.com/tdeasy.com/01_Information",
+    "//tdeasy.com/tdeasy.com/05_Motion Graphics",
+    "//tdeasy.com/tdeasy.com/06_Visual Experiments",
+    "//tdeasy.com/tdeasy.com/08_Information",
+    "//tdeasy.com/tdeasy.com/03_Web Development"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

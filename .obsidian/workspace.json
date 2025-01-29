@@ -11,14 +11,12 @@
             "id": "4530be5076d4ed7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "tasks/Webflow Tasks List.md",
-                "mode": "source",
-                "source": false
+                "path": "tdeasy.com/03_Web Development"
               },
               "icon": "lucide-file",
-              "title": "Webflow Tasks List"
+              "title": "03_Web Development"
             }
           }
         ]
@@ -74,7 +72,7 @@
             }
           },
           {
-            "id": "28dc7203d292f9ec",
+            "id": "b1ac89f08f3786a9",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -192,22 +190,24 @@
   },
   "active": "4530be5076d4ed7e",
   "lastOpenFiles": [
-    "tdeasy.com/02_Brand Campaigns/Broadcast Reel.md",
+    "tdeasy.com/01_Information/01_Past Experience.md",
+    "tdeasy.com/01_Information/00_About.md",
+    "tdeasy.com/tdeasy.com.md",
+    "tdeasy.com/02_Brand Campaigns/FPO x 5ish.md",
+    "tdeasy.com/02_Brand Campaigns/Beats By Dre.md",
+    "tdeasy.com/02_Brand Campaigns/Amazon Music.md",
+    "tdeasy.com/02_Brand Campaigns/AT&T.md",
     "tasks/Webflow Tasks List.md",
+    "tdeasy.com/02_Brand Campaigns/Broadcast Reel.md",
     "tasks/tasks.md",
     "tasks",
     "README.md",
-    "tdeasy.com/02_Brand Campaigns/Beats By Dre.md",
-    "tdeasy.com/02_Brand Campaigns/AT&T.md",
-    "tdeasy.com/02_Brand Campaigns/Amazon Music.md",
     "Tags",
     "tdeasy.com/06_Visual Experiments",
     "tdeasy.com/02_Brand Campaigns/D_b_ Travel.md",
     "tdeasy.com/02_Brand Campaigns/Cadillac.md",
     "tdeasy.com/04_Fashion Design/Vetements.md",
     "tdeasy.com/04_Fashion Design/Rick Owens.md",
-    "tdeasy.com/01_\"Portfolio\"/CV.md",
-    "tdeasy.com/01_\"Portfolio\"/Links.md",
     "tdeasy.com/03_Web Development/ISSUE.md",
     "tdeasy.com/04_Fashion Design/OFF—WHITE™.md"
   ]
