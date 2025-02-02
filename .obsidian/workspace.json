@@ -11,12 +11,14 @@
             "id": "4530be5076d4ed7e",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "tdeasy.com/03_Web Development"
+                "file": "tdeasy.com/01_Information/00_About.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "03_Web Development"
+              "title": "00_About"
             }
           }
         ]
@@ -192,10 +194,11 @@
   "lastOpenFiles": [
     "tdeasy.com/01_Information/01_Past Experience.md",
     "tdeasy.com/01_Information/00_About.md",
+    "tdeasy.com/02_Brand Campaigns/Amazon Music.md",
+    "tdeasy.com/02_Brand Campaigns/DirecTV.md",
     "tdeasy.com/tdeasy.com.md",
     "tdeasy.com/02_Brand Campaigns/FPO x 5ish.md",
     "tdeasy.com/02_Brand Campaigns/Beats By Dre.md",
-    "tdeasy.com/02_Brand Campaigns/Amazon Music.md",
     "tdeasy.com/02_Brand Campaigns/AT&T.md",
     "tasks/Webflow Tasks List.md",
     "tdeasy.com/02_Brand Campaigns/Broadcast Reel.md",
